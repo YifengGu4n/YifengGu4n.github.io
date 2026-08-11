@@ -25,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher interested in AI for Science, with a background in physics from Zhejiang University. My research focuses on developing and applying machine learning approaches to address challenging scientific problems, particularly in physics and biological systems. I am interested in building AI models that can help discover, simulate, and understand complex scientific phenomena.
+I am a researcher interested in AI for Science, with a background in physics from **<span style="color:#b00020;">Zhejiang University</span>**. My research focuses on developing and applying machine learning approaches to address challenging scientific problems, particularly in **<span style="color:#b00020;">material and biological</span>** systems. I am interested in building AI models that can help discover, simulate, and understand complex scientific phenomena.
